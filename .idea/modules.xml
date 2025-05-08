@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FIT2004/.idea/FIT2004.iml" filepath="$PROJECT_DIR$/../FIT2004/.idea/FIT2004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PycharmProjects/FIT2085/.idea/FIT2085.iml" filepath="$PROJECT_DIR$/../PycharmProjects/FIT2085/.idea/FIT2085.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FIT2101.iml" filepath="$PROJECT_DIR$/.idea/FIT2101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FIT2107/.idea/FIT2107.iml" filepath="$PROJECT_DIR$/../FIT2107/.idea/FIT2107.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PycharmProjects/FIT2107/.idea/FIT2107-2.iml" filepath="$PROJECT_DIR$/../PycharmProjects/FIT2107/.idea/FIT2107-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PycharmProjects/.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/../PycharmProjects/.idea/PycharmProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FIT2107/project/.idea/project.iml" filepath="$PROJECT_DIR$/../FIT2107/project/.idea/project.iml" />
+    </modules>
+  </component>
+</project>
